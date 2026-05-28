@@ -2,7 +2,7 @@
 
 ## Main face anchors
 
-![Face front](TRISH_TESSA_CORE_IDENTITY/01_face_front.jpg)
+![Face front](TRISH_TESSA_CORE_IDENTITY/TRISH_TESSA_CANON__01__front_neutral.png)
 
 ![Three quarter face](TRISH_TESSA_CORE_IDENTITY/02_face_3-4.jpg)
 
